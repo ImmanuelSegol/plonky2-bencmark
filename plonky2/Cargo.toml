@@ -75,3 +75,7 @@ harness = false
 [[bench]]
 name = "reverse_index_bits"
 harness = false
+
+[[bench]]
+name = "poseidon"
+harness = false
